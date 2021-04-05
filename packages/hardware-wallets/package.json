@@ -32,7 +32,7 @@
   "license": "MIT",
   "main": "./lib/index.js",
   "module": "./lib.esm/index.js",
-  "name": "@ethersproject/hardware-wallets",
+  "name": "mudgen-hardware-wallets",
   "optionalDependencies": {
     "@ledgerhq/hw-transport-node-hid": "5.26.0"
   },
@@ -42,7 +42,7 @@
   "repository": {
     "directory": "packages/hardware-wallets",
     "type": "git",
-    "url": "git://github.com/ethers-io/ethers.js.git"
+    "url": "git://github.com/mudgen/ethers.js.git"
   },
   "scripts": {
     "test": "exit 1"
